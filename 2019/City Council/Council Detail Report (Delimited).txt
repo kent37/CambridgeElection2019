@@ -1,0 +1,571 @@
+C:\Cambridge\Election2019\Council\3 Final\Council Detail Report (Delimited)
+10|November 15, 2019 -- Cambridge, MA
+10|City Council Election
+10|Cambridge, Massachusetts
+10|Final Election Results
+20|C01|"Akiba, Sukia"
+20|C02|"Azeem, Burhan"
+20|C03|"Carlone, Dennis J."
+20|C04|"Franklin, Charles J."
+20|C05|"Kelley, Craig A."
+20|C06|"Kopon, Derek Andrew"
+20|C07|"Levy, Ilan"
+20|C08|"Mallon, Alanna M."
+20|C09|"McGovern, Marc C."
+20|C10|"McNary, Jeffery"
+20|C11|"Mednick, Risa"
+20|C12|"Moree, Gregg J."
+20|C13|"Musgrave, Adriane"
+20|C14|"Nolan, Patricia M."
+20|C15|"Pitkin, John"
+20|C16|"Siddiqui, Sumbul"
+20|C17|"Simmons, E. Denise"
+20|C18|"Simon, Ben"
+20|C19|"Sobrinho-Wheeler, Jivan"
+20|C20|"Toomey, Jr., Timothy J."
+20|C21|"Williams, Nicola A."
+20|C22|"Zondervan, Quinton Y."
+20|WI01|"Write-In 1"
+20|WI02|"Write-In 2"
+20|WI03|"Write-In 3"
+20|WI04|"Write-In 4"
+20|WI05|"Write-In 5"
+20|WI06|"Write-In 6"
+20|WI07|"Write-In 7"
+20|WI08|"Write-In 8"
+20|WI09|"Write-In 9"
+30|system|Proportional Representation
+30|threshold|Droop
+30|surplusTransfers|Random, every nth ballot (Cambridge style)|Avoid exhausted ballots if possible|Elected immediately (after the 1st count)
+30|ties|1) Previous Count method|2) By election official|3) Random (by computer)
+40|21239|21239|9|2124|85
+50|1|Tally of 1st place votes.
+60|C16|+2516|2516|ELECTED -- 1st count
+60|C17|+2007|2007|CONTINUING
+60|C20|+1729|1729|CONTINUING
+60|C14|+1685|1685|CONTINUING
+60|C09|+1621|1621|CONTINUING
+60|C03|+1479|1479|CONTINUING
+60|C05|+1422|1422|CONTINUING
+60|C22|+1382|1382|CONTINUING
+60|C19|+1321|1321|CONTINUING
+60|C08|+1256|1256|CONTINUING
+60|C02|+961|961|CONTINUING
+60|C13|+726|726|CONTINUING
+60|C21|+631|631|CONTINUING
+60|C15|+536|536|CONTINUING
+60|C06|+493|493|CONTINUING
+60|C01|+362|362|CONTINUING
+60|C04|+323|323|CONTINUING
+60|C18|+294|294|CONTINUING
+60|C11|+244|244|CONTINUING
+60|C07|+110|110|CONTINUING
+60|C10|+77|77|CONTINUING
+60|C12|+47|47|CONTINUING
+60|WI01|+17|17|CONTINUING
+60|WI02|0|0|CONTINUING
+60|WI03|0|0|CONTINUING
+60|WI04|0|0|CONTINUING
+60|WI05|0|0|CONTINUING
+60|WI06|0|0|CONTINUING
+60|WI07|0|0|CONTINUING
+60|WI08|0|0|CONTINUING
+60|WI09|0|0|CONTINUING
+60|CAND_EXHAUSTED|0|0|
+70|Siddiqui, Sumbul has been ELECTED because s/he has met the quota.
+50|2|Siddiqui, Sumbul has been ELECTED -- transferring surplus votes.
+60|C16|-392|2124|ELECTED -- 1st count
+60|C17|+75|2082|CONTINUING
+60|C20|+15|1744|CONTINUING
+60|C14|+15|1700|CONTINUING
+60|C09|+32|1653|CONTINUING
+60|C03|+10|1489|CONTINUING
+60|C05|+12|1434|CONTINUING
+60|C22|+31|1413|CONTINUING
+60|C19|+32|1353|CONTINUING
+60|C08|+74|1330|CONTINUING
+60|C02|+34|995|CONTINUING
+60|C13|+21|747|CONTINUING
+60|C21|+7|638|CONTINUING
+60|C15|+5|541|CONTINUING
+60|C06|+1|494|CONTINUING
+60|C01|+7|369|CONTINUING
+60|C04|+6|329|CONTINUING
+60|C18|+6|300|CONTINUING
+60|C11|+8|252|CONTINUING
+60|C07|+1|111|CONTINUING
+60|C10|0|77|CONTINUING
+60|C12|0|47|DEFEATED -- 2nd count
+60|WI01|0|17|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|0|0|
+70|Write-In 9 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 8 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 7 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 6 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 5 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 4 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 3 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 2 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 1 is declared DEFEATED, as s/he has less than 50 votes.
+70|Moree, Gregg J. is declared DEFEATED, as s/he has less than 50 votes.
+50|3|Transferring all votes simultaneously from all defeated candidates.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|+5|2087|CONTINUING
+60|C20|+9|1753|CONTINUING
+60|C14|+8|1708|CONTINUING
+60|C09|+3|1656|CONTINUING
+60|C03|0|1489|CONTINUING
+60|C05|+1|1435|CONTINUING
+60|C22|+1|1414|CONTINUING
+60|C19|0|1353|CONTINUING
+60|C08|+1|1331|CONTINUING
+60|C02|0|995|CONTINUING
+60|C13|+4|751|CONTINUING
+60|C21|0|638|CONTINUING
+60|C15|+1|542|CONTINUING
+60|C06|+3|497|CONTINUING
+60|C01|+2|371|CONTINUING
+60|C04|+3|332|CONTINUING
+60|C18|+3|303|CONTINUING
+60|C11|0|252|CONTINUING
+60|C07|+2|113|CONTINUING
+60|C10|+3|80|DEFEATED -- 3rd count
+60|C12|-47|0|DEFEATED -- 2nd count
+60|WI01|-17|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+15|15|
+70|McNary, Jeffery is declared DEFEATED because s/he has the lowest number of votes.
+50|4|McNary, Jeffery has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|+7|2094|CONTINUING
+60|C20|+5|1758|CONTINUING
+60|C14|+4|1712|CONTINUING
+60|C09|+7|1663|CONTINUING
+60|C03|0|1489|CONTINUING
+60|C05|+3|1438|CONTINUING
+60|C22|+7|1421|CONTINUING
+60|C19|+4|1357|CONTINUING
+60|C08|+3|1334|CONTINUING
+60|C02|+3|998|CONTINUING
+60|C13|+5|756|CONTINUING
+60|C21|+1|639|CONTINUING
+60|C15|+3|545|CONTINUING
+60|C06|+2|499|CONTINUING
+60|C01|+5|376|CONTINUING
+60|C04|+5|337|CONTINUING
+60|C18|+2|305|CONTINUING
+60|C11|+6|258|CONTINUING
+60|C07|+4|117|DEFEATED -- 4th count
+60|C10|-80|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+4|19|
+70|Levy, Ilan is declared DEFEATED because s/he has the lowest number of votes.
+50|5|Levy, Ilan has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|+4|2098|CONTINUING
+60|C20|+6|1764|CONTINUING
+60|C14|+5|1717|CONTINUING
+60|C09|+2|1665|CONTINUING
+60|C03|+13|1502|CONTINUING
+60|C05|+9|1447|CONTINUING
+60|C22|+16|1437|CONTINUING
+60|C19|+2|1359|CONTINUING
+60|C08|+4|1338|CONTINUING
+60|C02|+2|1000|CONTINUING
+60|C13|+1|757|CONTINUING
+60|C21|+6|645|CONTINUING
+60|C15|+4|549|CONTINUING
+60|C06|+12|511|CONTINUING
+60|C01|+8|384|CONTINUING
+60|C04|+7|344|CONTINUING
+60|C18|+5|310|CONTINUING
+60|C11|+2|260|DEFEATED -- 5th count
+60|C07|-117|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+9|28|
+70|Mednick, Risa is declared DEFEATED because s/he has the lowest number of votes.
+50|6|Mednick, Risa has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|+20|2118|CONTINUING
+60|C20|+4|1768|CONTINUING
+60|C14|+30|1747|CONTINUING
+60|C09|+18|1683|CONTINUING
+60|C03|+26|1528|CONTINUING
+60|C22|+20|1457|CONTINUING
+60|C05|+9|1456|CONTINUING
+60|C19|+17|1376|CONTINUING
+60|C08|+25|1363|CONTINUING
+60|C02|+11|1011|CONTINUING
+60|C13|+29|786|CONTINUING
+60|C21|+11|656|CONTINUING
+60|C15|+13|562|CONTINUING
+60|C06|+4|515|CONTINUING
+60|C01|+3|387|CONTINUING
+60|C04|+5|349|CONTINUING
+60|C18|+1|311|DEFEATED -- 6th count
+60|C11|-260|0|DEFEATED -- 5th count
+60|C07|0|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+14|42|
+70|Simon, Ben is declared DEFEATED because s/he has the lowest number of votes.
+50|7|Simon, Ben has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|+6|2124|ELECTED -- 7th count
+60|C20|+17|1785|CONTINUING
+60|C14|+18|1765|CONTINUING
+60|C09|+12|1695|CONTINUING
+60|C03|+18|1546|CONTINUING
+60|C22|+40|1497|CONTINUING
+60|C05|+8|1464|CONTINUING
+60|C19|+66|1442|CONTINUING
+60|C08|+13|1376|CONTINUING
+60|C02|+10|1021|CONTINUING
+60|C13|+4|790|CONTINUING
+60|C21|+27|683|CONTINUING
+60|C15|+13|575|CONTINUING
+60|C06|+5|520|CONTINUING
+60|C01|+11|398|CONTINUING
+60|C04|+21|370|DEFEATED -- 7th count
+60|C18|-311|0|DEFEATED -- 6th count
+60|C11|0|0|DEFEATED -- 5th count
+60|C07|0|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+22|64|
+70|Simmons, E. Denise has been ELECTED because s/he has met the quota.
+70|Franklin, Charles J. is declared DEFEATED because s/he has the lowest number of votes.
+50|8|Franklin, Charles J. has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|0|2124|ELECTED -- 7th count
+60|C14|+35|1800|CONTINUING
+60|C20|+12|1797|CONTINUING
+60|C09|+24|1719|CONTINUING
+60|C03|+28|1574|CONTINUING
+60|C22|+44|1541|CONTINUING
+60|C19|+42|1484|CONTINUING
+60|C05|+17|1481|CONTINUING
+60|C08|+19|1395|CONTINUING
+60|C02|+31|1052|CONTINUING
+60|C13|+23|813|CONTINUING
+60|C21|+25|708|CONTINUING
+60|C15|+10|585|CONTINUING
+60|C06|+26|546|CONTINUING
+60|C01|+17|415|DEFEATED -- 8th count
+60|C04|-370|0|DEFEATED -- 7th count
+60|C18|0|0|DEFEATED -- 6th count
+60|C11|0|0|DEFEATED -- 5th count
+60|C07|0|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+17|81|
+70|Akiba, Sukia is declared DEFEATED because s/he has the lowest number of votes.
+50|9|Akiba, Sukia has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|0|2124|ELECTED -- 7th count
+60|C14|+24|1824|CONTINUING
+60|C20|+14|1811|CONTINUING
+60|C09|+19|1738|CONTINUING
+60|C03|+12|1586|CONTINUING
+60|C22|+21|1562|CONTINUING
+60|C19|+36|1520|CONTINUING
+60|C05|+14|1495|CONTINUING
+60|C08|+60|1455|CONTINUING
+60|C02|+76|1128|CONTINUING
+60|C13|+26|839|CONTINUING
+60|C21|+54|762|CONTINUING
+60|C15|+11|596|CONTINUING
+60|C06|+13|559|DEFEATED -- 9th count
+60|C01|-415|0|DEFEATED -- 8th count
+60|C04|0|0|DEFEATED -- 7th count
+60|C18|0|0|DEFEATED -- 6th count
+60|C11|0|0|DEFEATED -- 5th count
+60|C07|0|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+35|116|
+70|Kopon, Derek Andrew is declared DEFEATED because s/he has the lowest number of votes.
+50|10|Kopon, Derek Andrew has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|0|2124|ELECTED -- 7th count
+60|C14|+118|1942|CONTINUING
+60|C20|+12|1823|CONTINUING
+60|C09|+15|1753|CONTINUING
+60|C03|+63|1649|CONTINUING
+60|C22|+48|1610|CONTINUING
+60|C05|+70|1565|CONTINUING
+60|C19|+17|1537|CONTINUING
+60|C08|+20|1475|CONTINUING
+60|C02|+18|1146|CONTINUING
+60|C13|+25|864|CONTINUING
+60|C21|+32|794|CONTINUING
+60|C15|+98|694|DEFEATED -- 10th count
+60|C06|-559|0|DEFEATED -- 9th count
+60|C01|0|0|DEFEATED -- 8th count
+60|C04|0|0|DEFEATED -- 7th count
+60|C18|0|0|DEFEATED -- 6th count
+60|C11|0|0|DEFEATED -- 5th count
+60|C07|0|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+23|139|
+70|Pitkin, John is declared DEFEATED because s/he has the lowest number of votes.
+50|11|Pitkin, John has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|0|2124|ELECTED -- 7th count
+60|C14|+124|2066|CONTINUING
+60|C20|+33|1856|CONTINUING
+60|C09|+32|1785|CONTINUING
+60|C03|+78|1727|CONTINUING
+60|C22|+111|1721|CONTINUING
+60|C05|+110|1675|CONTINUING
+60|C19|+24|1561|CONTINUING
+60|C08|+25|1500|CONTINUING
+60|C02|+17|1163|CONTINUING
+60|C13|+12|876|CONTINUING
+60|C21|+81|875|DEFEATED -- 11th count
+60|C15|-694|0|DEFEATED -- 10th count
+60|C06|0|0|DEFEATED -- 9th count
+60|C01|0|0|DEFEATED -- 8th count
+60|C04|0|0|DEFEATED -- 7th count
+60|C18|0|0|DEFEATED -- 6th count
+60|C11|0|0|DEFEATED -- 5th count
+60|C07|0|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+47|186|
+70|Williams, Nicola A. is declared DEFEATED because s/he has the lowest number of votes.
+50|12|Williams, Nicola A. has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|0|2124|ELECTED -- 7th count
+60|C14|+58|2124|ELECTED -- 12th count
+60|C22|+271|1992|CONTINUING
+60|C20|+24|1880|CONTINUING
+60|C09|+38|1823|CONTINUING
+60|C03|+95|1822|CONTINUING
+60|C05|+70|1745|CONTINUING
+60|C19|+86|1647|CONTINUING
+60|C08|+52|1552|CONTINUING
+60|C02|+53|1216|CONTINUING
+60|C13|+35|911|DEFEATED -- 12th count
+60|C21|-875|0|DEFEATED -- 11th count
+60|C15|0|0|DEFEATED -- 10th count
+60|C06|0|0|DEFEATED -- 9th count
+60|C01|0|0|DEFEATED -- 8th count
+60|C04|0|0|DEFEATED -- 7th count
+60|C18|0|0|DEFEATED -- 6th count
+60|C11|0|0|DEFEATED -- 5th count
+60|C07|0|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+93|279|
+70|Nolan, Patricia M. has been ELECTED because s/he has met the quota.
+70|Musgrave, Adriane is declared DEFEATED because s/he has the lowest number of votes.
+50|13|Musgrave, Adriane has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|0|2124|ELECTED -- 7th count
+60|C14|0|2124|ELECTED -- 12th count
+60|C22|+65|2057|CONTINUING
+60|C09|+151|1974|CONTINUING
+60|C20|+32|1912|CONTINUING
+60|C03|+40|1862|CONTINUING
+60|C05|+62|1807|CONTINUING
+60|C19|+131|1778|CONTINUING
+60|C08|+220|1772|CONTINUING
+60|C02|+126|1342|DEFEATED -- 13th count
+60|C13|-911|0|DEFEATED -- 12th count
+60|C21|0|0|DEFEATED -- 11th count
+60|C15|0|0|DEFEATED -- 10th count
+60|C06|0|0|DEFEATED -- 9th count
+60|C01|0|0|DEFEATED -- 8th count
+60|C04|0|0|DEFEATED -- 7th count
+60|C18|0|0|DEFEATED -- 6th count
+60|C11|0|0|DEFEATED -- 5th count
+60|C07|0|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+84|363|
+70|Azeem, Burhan is declared DEFEATED because s/he has the lowest number of votes.
+50|14|Azeem, Burhan has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|0|2124|ELECTED -- 7th count
+60|C14|0|2124|ELECTED -- 12th count
+60|C08|+352|2124|ELECTED -- 14th count
+60|C22|+67|2124|ELECTED -- 14th count
+60|C19|+346|2124|ELECTED -- 14th count
+60|C09|+150|2124|ELECTED -- 14th count
+60|C20|+95|2007|CONTINUING
+60|C03|+62|1924|CONTINUING
+60|C05|+57|1864|DEFEATED -- 14th count
+60|C02|-1342|0|DEFEATED -- 13th count
+60|C13|0|0|DEFEATED -- 12th count
+60|C21|0|0|DEFEATED -- 11th count
+60|C15|0|0|DEFEATED -- 10th count
+60|C06|0|0|DEFEATED -- 9th count
+60|C01|0|0|DEFEATED -- 8th count
+60|C04|0|0|DEFEATED -- 7th count
+60|C18|0|0|DEFEATED -- 6th count
+60|C11|0|0|DEFEATED -- 5th count
+60|C07|0|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+213|576|
+70|Zondervan, Quinton Y. has been ELECTED because s/he has met the quota.
+70|McGovern, Marc C. has been ELECTED because s/he has met the quota.
+70|Mallon, Alanna M. has been ELECTED because s/he has met the quota.
+70|Sobrinho-Wheeler, Jivan has been ELECTED because s/he has met the quota.
+70|Kelley, Craig A. is declared DEFEATED because s/he has the lowest number of votes.
+50|15|Kelley, Craig A. has been DEFEATED -- transferring all votes.
+60|C16|0|2124|ELECTED -- 1st count
+60|C17|0|2124|ELECTED -- 7th count
+60|C14|0|2124|ELECTED -- 12th count
+60|C08|0|2124|ELECTED -- 14th count
+60|C22|0|2124|ELECTED -- 14th count
+60|C19|0|2124|ELECTED -- 14th count
+60|C09|0|2124|ELECTED -- 14th count
+60|C03|+200|2124|ELECTED -- 15th count
+60|C20|+117|2124|ELECTED -- 15th count
+60|C05|-1864|0|DEFEATED -- 14th count
+60|C02|0|0|DEFEATED -- 13th count
+60|C13|0|0|DEFEATED -- 12th count
+60|C21|0|0|DEFEATED -- 11th count
+60|C15|0|0|DEFEATED -- 10th count
+60|C06|0|0|DEFEATED -- 9th count
+60|C01|0|0|DEFEATED -- 8th count
+60|C04|0|0|DEFEATED -- 7th count
+60|C18|0|0|DEFEATED -- 6th count
+60|C11|0|0|DEFEATED -- 5th count
+60|C07|0|0|DEFEATED -- 4th count
+60|C10|0|0|DEFEATED -- 3rd count
+60|C12|0|0|DEFEATED -- 2nd count
+60|WI01|0|0|DEFEATED -- 2nd count
+60|WI02|0|0|DEFEATED -- 2nd count
+60|WI03|0|0|DEFEATED -- 2nd count
+60|WI04|0|0|DEFEATED -- 2nd count
+60|WI05|0|0|DEFEATED -- 2nd count
+60|WI06|0|0|DEFEATED -- 2nd count
+60|WI07|0|0|DEFEATED -- 2nd count
+60|WI08|0|0|DEFEATED -- 2nd count
+60|WI09|0|0|DEFEATED -- 2nd count
+60|CAND_EXHAUSTED|+1547|2123|
+70|Carlone, Dennis J. has been ELECTED because s/he has met the quota.
+70|Toomey, Jr., Timothy J. has been ELECTED because s/he has met the quota.
+80|ELECTION COUNT SUCCESSFULLY COMPLETED
+80|Friday, November 15, 2019 6:05 PM
+80|ChoicePlus Pro -- Version 2.3.4
+80|(c) 1993-2009 Voting Solutions -- All Rights Reserved

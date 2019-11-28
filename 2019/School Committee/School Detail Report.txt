@@ -1,0 +1,402 @@
+C:\Cambridge\Election2019\School\3 Final\School Detail Report
+
+
+November 15, 2019 -- Cambridge, MA
+School Committee Election
+Cambridge, Massachusetts
+Final Election Results
+
+CANDIDATES:
+	Allen, Ruth Ryan
+	Bowman, Manikka L.
+	Dawson, Bernette J.
+	Dexter, Emily
+	Fantini, Alfred B.
+	Kadete, Elechi M.
+	Lim, Christopher
+	Rojas Villarreal, Jose Luis
+	Weinstein, David J.
+	Weinstein, Rachel B.
+	Wilson, Ayesha
+	Write-In 01
+	Write-In 02
+	Write-In 03
+	Write-In 04
+	Write-In 05
+	Write-In 06
+
+ELECTION RULES:
+               System:  Proportional Representation
+           Quota Type:  Droop
+    Surplus Transfers:  Random, every nth ballot (Cambridge style)
+                        Avoid exhausted ballots if possible
+                        Elected immediately (after the 1st count)
+    Simultaneous Drop:  Those with less than 50 votes
+                 Ties:  1) Previous Count method
+                        2) By election official
+                        3) Random (by computer)
+
+--------------------------------------------------
+19,425 valid ballots.
+Electing 6 candidates.
+Quota is 2776 votes.
+There were 1,712 invalid ballots.
+(21,137 total ballots processed.)
+--------------------------------------------------
+
+
+
+********************************************************************************
+
+
+COUNT 1 -- Tally of 1st place votes.
+
+CANDIDATE                   THIS COUNT          TOTAL  STATUS
+-----------------------  -------------  -------------  ----------------------
+Bowman, Manikka L.               +3109           3109  ELECTED -- 1st count
+Dexter, Emily                    +3003           3003  ELECTED -- 1st count
+Wilson, Ayesha                   +2692           2692  CONTINUING
+Fantini, Alfred B.               +2662           2662  CONTINUING
+Weinstein, Rachel B.             +2178           2178  CONTINUING
+Rojas Villarreal, Jose.          +1134           1134  CONTINUING
+Dawson, Bernette J.               +977            977  CONTINUING
+Weinstein, David J.               +975            975  CONTINUING
+Lim, Christopher                  +934            934  CONTINUING
+Allen, Ruth Ryan                  +893            893  CONTINUING
+Kadete, Elechi M.                 +815            815  CONTINUING
+Write-In 01                        +50             50  CONTINUING
+Write-In 02                         +2              2  CONTINUING
+Write-In 03                         +1              1  CONTINUING
+Write-In 04                          0              0  CONTINUING
+Write-In 05                          0              0  CONTINUING
+Write-In 06                          0              0  CONTINUING
+
+EXHAUSTED PILE:                      0              0  
+TOTALS:                         +19425          19425  
+
+
+
+-- Bowman, Manikka L. has been ELECTED because s/he has met the quota.
+-- Dexter, Emily has been ELECTED because s/he has met the quota.
+
+
+********************************************************************************
+
+
+COUNT 2 -- Bowman, Manikka L. has been ELECTED -- transferring surplus votes.
+
+CANDIDATE                   THIS COUNT          TOTAL  STATUS
+-----------------------  -------------  -------------  ----------------------
+Bowman, Manikka L.                -333           2776  ELECTED -- 1st count
+Dexter, Emily                        0           3003  ELECTED -- 1st count
+Fantini, Alfred B.                +114           2776  ELECTED -- 2nd count
+Wilson, Ayesha                     +64           2756  CONTINUING
+Weinstein, Rachel B.               +32           2210  CONTINUING
+Rojas Villarreal, Jose.            +26           1160  CONTINUING
+Dawson, Bernette J.                +34           1011  CONTINUING
+Weinstein, David J.                +19            994  CONTINUING
+Lim, Christopher                   +16            950  CONTINUING
+Allen, Ruth Ryan                    +8            901  CONTINUING
+Kadete, Elechi M.                  +20            835  CONTINUING
+Write-In 01                          0             50  CONTINUING
+Write-In 02                          0              2  CONTINUING
+Write-In 03                          0              1  CONTINUING
+Write-In 04                          0              0  CONTINUING
+Write-In 05                          0              0  CONTINUING
+Write-In 06                          0              0  CONTINUING
+
+EXHAUSTED PILE:                      0              0  
+TOTALS:                              0          19425  
+
+
+
+-- Fantini, Alfred B. has been ELECTED because s/he has met the quota.
+
+
+********************************************************************************
+
+
+COUNT 3 -- Dexter, Emily has been ELECTED -- transferring surplus votes.
+
+CANDIDATE                   THIS COUNT          TOTAL  STATUS
+-----------------------  -------------  -------------  ----------------------
+Bowman, Manikka L.                   0           2776  ELECTED -- 1st count
+Dexter, Emily                     -227           2776  ELECTED -- 1st count
+Fantini, Alfred B.                   0           2776  ELECTED -- 2nd count
+Wilson, Ayesha                     +20           2776  ELECTED -- 3rd count
+Weinstein, Rachel B.               +48           2258  CONTINUING
+Rojas Villarreal, Jose.            +40           1200  CONTINUING
+Dawson, Bernette J.                +21           1032  CONTINUING
+Weinstein, David J.                +23           1017  CONTINUING
+Lim, Christopher                   +29            979  CONTINUING
+Allen, Ruth Ryan                   +14            915  CONTINUING
+Kadete, Elechi M.                  +32            867  CONTINUING
+Write-In 01                          0             50  CONTINUING
+Write-In 02                          0              2  DEFEATED -- 3rd count
+Write-In 03                          0              1  DEFEATED -- 3rd count
+Write-In 04                          0              0  DEFEATED -- 3rd count
+Write-In 05                          0              0  DEFEATED -- 3rd count
+Write-In 06                          0              0  DEFEATED -- 3rd count
+
+EXHAUSTED PILE:                      0              0  
+TOTALS:                              0          19425  
+
+
+
+-- Wilson, Ayesha has been ELECTED because s/he has met the quota.
+-- Write-In 06 is declared DEFEATED, as s/he has less than 50 votes.
+-- Write-In 05 is declared DEFEATED, as s/he has less than 50 votes.
+-- Write-In 04 is declared DEFEATED, as s/he has less than 50 votes.
+-- Write-In 03 is declared DEFEATED, as s/he has less than 50 votes.
+-- Write-In 02 is declared DEFEATED, as s/he has less than 50 votes.
+
+
+********************************************************************************
+
+
+COUNT 4 -- Transferring all votes simultaneously from all defeated candidates.
+
+CANDIDATE                   THIS COUNT          TOTAL  STATUS
+-----------------------  -------------  -------------  ----------------------
+Bowman, Manikka L.                   0           2776  ELECTED -- 1st count
+Dexter, Emily                        0           2776  ELECTED -- 1st count
+Fantini, Alfred B.                   0           2776  ELECTED -- 2nd count
+Wilson, Ayesha                       0           2776  ELECTED -- 3rd count
+Weinstein, Rachel B.                 0           2258  CONTINUING
+Rojas Villarreal, Jose.              0           1200  CONTINUING
+Dawson, Bernette J.                 +1           1033  CONTINUING
+Weinstein, David J.                  0           1017  CONTINUING
+Lim, Christopher                     0            979  CONTINUING
+Allen, Ruth Ryan                    +1            916  CONTINUING
+Kadete, Elechi M.                    0            867  CONTINUING
+Write-In 01                          0             50  DEFEATED -- 4th count
+Write-In 02                         -2              0  DEFEATED -- 3rd count
+Write-In 03                         -1              0  DEFEATED -- 3rd count
+Write-In 04                          0              0  DEFEATED -- 3rd count
+Write-In 05                          0              0  DEFEATED -- 3rd count
+Write-In 06                          0              0  DEFEATED -- 3rd count
+
+EXHAUSTED PILE:                     +1              1  
+TOTALS:                              0          19425  
+
+
+
+-- Write-In 01 is declared DEFEATED because s/he has the lowest number of votes.
+
+
+********************************************************************************
+
+
+COUNT 5 -- Write-In 01 has been DEFEATED -- transferring all votes.
+
+CANDIDATE                   THIS COUNT          TOTAL  STATUS
+-----------------------  -------------  -------------  ----------------------
+Bowman, Manikka L.                   0           2776  ELECTED -- 1st count
+Dexter, Emily                        0           2776  ELECTED -- 1st count
+Fantini, Alfred B.                   0           2776  ELECTED -- 2nd count
+Wilson, Ayesha                       0           2776  ELECTED -- 3rd count
+Weinstein, Rachel B.                +3           2261  CONTINUING
+Rojas Villarreal, Jose.             +2           1202  CONTINUING
+Dawson, Bernette J.                  0           1033  CONTINUING
+Weinstein, David J.                 +1           1018  CONTINUING
+Lim, Christopher                    +2            981  CONTINUING
+Allen, Ruth Ryan                    +2            918  CONTINUING
+Kadete, Elechi M.                   +2            869  DEFEATED -- 5th count
+Write-In 01                        -50              0  DEFEATED -- 4th count
+Write-In 02                          0              0  DEFEATED -- 3rd count
+Write-In 03                          0              0  DEFEATED -- 3rd count
+Write-In 04                          0              0  DEFEATED -- 3rd count
+Write-In 05                          0              0  DEFEATED -- 3rd count
+Write-In 06                          0              0  DEFEATED -- 3rd count
+
+EXHAUSTED PILE:                    +38             39  
+TOTALS:                              0          19425  
+
+
+
+-- Kadete, Elechi M. is declared DEFEATED because s/he has the lowest number of
+   votes.
+
+
+********************************************************************************
+
+
+COUNT 6 -- Kadete, Elechi M. has been DEFEATED -- transferring all votes.
+
+CANDIDATE                   THIS COUNT          TOTAL  STATUS
+-----------------------  -------------  -------------  ----------------------
+Bowman, Manikka L.                   0           2776  ELECTED -- 1st count
+Dexter, Emily                        0           2776  ELECTED -- 1st count
+Fantini, Alfred B.                   0           2776  ELECTED -- 2nd count
+Wilson, Ayesha                       0           2776  ELECTED -- 3rd count
+Weinstein, Rachel B.              +101           2362  CONTINUING
+Rojas Villarreal, Jose.           +203           1405  CONTINUING
+Weinstein, David J.               +112           1130  CONTINUING
+Dawson, Bernette J.                +57           1090  CONTINUING
+Lim, Christopher                   +95           1076  CONTINUING
+Allen, Ruth Ryan                   +38            956  DEFEATED -- 6th count
+Kadete, Elechi M.                 -869              0  DEFEATED -- 5th count
+Write-In 01                          0              0  DEFEATED -- 4th count
+Write-In 02                          0              0  DEFEATED -- 3rd count
+Write-In 03                          0              0  DEFEATED -- 3rd count
+Write-In 04                          0              0  DEFEATED -- 3rd count
+Write-In 05                          0              0  DEFEATED -- 3rd count
+Write-In 06                          0              0  DEFEATED -- 3rd count
+
+EXHAUSTED PILE:                   +263            302  
+TOTALS:                              0          19425  
+
+
+
+-- Allen, Ruth Ryan is declared DEFEATED because s/he has the lowest number of
+   votes.
+
+
+********************************************************************************
+
+
+COUNT 7 -- Allen, Ruth Ryan has been DEFEATED -- transferring all votes.
+
+CANDIDATE                   THIS COUNT          TOTAL  STATUS
+-----------------------  -------------  -------------  ----------------------
+Bowman, Manikka L.                   0           2776  ELECTED -- 1st count
+Dexter, Emily                        0           2776  ELECTED -- 1st count
+Fantini, Alfred B.                   0           2776  ELECTED -- 2nd count
+Wilson, Ayesha                       0           2776  ELECTED -- 3rd count
+Weinstein, Rachel B.              +174           2536  CONTINUING
+Rojas Villarreal, Jose.            +61           1466  CONTINUING
+Dawson, Bernette J.               +133           1223  CONTINUING
+Weinstein, David J.                +84           1214  CONTINUING
+Lim, Christopher                  +101           1177  DEFEATED -- 7th count
+Allen, Ruth Ryan                  -956              0  DEFEATED -- 6th count
+Kadete, Elechi M.                    0              0  DEFEATED -- 5th count
+Write-In 01                          0              0  DEFEATED -- 4th count
+Write-In 02                          0              0  DEFEATED -- 3rd count
+Write-In 03                          0              0  DEFEATED -- 3rd count
+Write-In 04                          0              0  DEFEATED -- 3rd count
+Write-In 05                          0              0  DEFEATED -- 3rd count
+Write-In 06                          0              0  DEFEATED -- 3rd count
+
+EXHAUSTED PILE:                   +403            705  
+TOTALS:                              0          19425  
+
+
+
+-- Lim, Christopher is declared DEFEATED because s/he has the lowest number of
+   votes.
+
+
+********************************************************************************
+
+
+COUNT 8 -- Lim, Christopher has been DEFEATED -- transferring all votes.
+
+CANDIDATE                   THIS COUNT          TOTAL  STATUS
+-----------------------  -------------  -------------  ----------------------
+Bowman, Manikka L.                   0           2776  ELECTED -- 1st count
+Dexter, Emily                        0           2776  ELECTED -- 1st count
+Fantini, Alfred B.                   0           2776  ELECTED -- 2nd count
+Wilson, Ayesha                       0           2776  ELECTED -- 3rd count
+Weinstein, Rachel B.              +212           2748  CONTINUING
+Rojas Villarreal, Jose.           +262           1728  CONTINUING
+Dawson, Bernette J.               +163           1386  CONTINUING
+Weinstein, David J.               +155           1369  DEFEATED -- 8th count
+Lim, Christopher                 -1177              0  DEFEATED -- 7th count
+Allen, Ruth Ryan                     0              0  DEFEATED -- 6th count
+Kadete, Elechi M.                    0              0  DEFEATED -- 5th count
+Write-In 01                          0              0  DEFEATED -- 4th count
+Write-In 02                          0              0  DEFEATED -- 3rd count
+Write-In 03                          0              0  DEFEATED -- 3rd count
+Write-In 04                          0              0  DEFEATED -- 3rd count
+Write-In 05                          0              0  DEFEATED -- 3rd count
+Write-In 06                          0              0  DEFEATED -- 3rd count
+
+EXHAUSTED PILE:                   +385           1090  
+TOTALS:                              0          19425  
+
+
+
+-- Weinstein, David J. is declared DEFEATED because s/he has the lowest number
+   of votes.
+
+
+********************************************************************************
+
+
+COUNT 9 -- Weinstein, David J. has been DEFEATED -- transferring all votes.
+
+CANDIDATE                   THIS COUNT          TOTAL  STATUS
+-----------------------  -------------  -------------  ----------------------
+Bowman, Manikka L.                   0           2776  ELECTED -- 1st count
+Dexter, Emily                        0           2776  ELECTED -- 1st count
+Fantini, Alfred B.                   0           2776  ELECTED -- 2nd count
+Wilson, Ayesha                       0           2776  ELECTED -- 3rd count
+Weinstein, Rachel B.               +28           2776  ELECTED -- 9th count
+Rojas Villarreal, Jose.           +340           2068  CONTINUING
+Dawson, Bernette J.               +300           1686  DEFEATED -- 9th count
+Weinstein, David J.              -1369              0  DEFEATED -- 8th count
+Lim, Christopher                     0              0  DEFEATED -- 7th count
+Allen, Ruth Ryan                     0              0  DEFEATED -- 6th count
+Kadete, Elechi M.                    0              0  DEFEATED -- 5th count
+Write-In 01                          0              0  DEFEATED -- 4th count
+Write-In 02                          0              0  DEFEATED -- 3rd count
+Write-In 03                          0              0  DEFEATED -- 3rd count
+Write-In 04                          0              0  DEFEATED -- 3rd count
+Write-In 05                          0              0  DEFEATED -- 3rd count
+Write-In 06                          0              0  DEFEATED -- 3rd count
+
+EXHAUSTED PILE:                   +701           1791  
+TOTALS:                              0          19425  
+
+
+
+-- Weinstein, Rachel B. has been ELECTED because s/he has met the quota.
+-- Dawson, Bernette J. is declared DEFEATED because s/he has the lowest number
+   of votes.
+
+
+********************************************************************************
+
+
+COUNT 10 -- Dawson, Bernette J. has been DEFEATED -- transferring all votes.
+
+CANDIDATE                   THIS COUNT          TOTAL  STATUS
+-----------------------  -------------  -------------  ----------------------
+Bowman, Manikka L.                   0           2776  ELECTED -- 1st count
+Dexter, Emily                        0           2776  ELECTED -- 1st count
+Fantini, Alfred B.                   0           2776  ELECTED -- 2nd count
+Wilson, Ayesha                       0           2776  ELECTED -- 3rd count
+Weinstein, Rachel B.                 0           2776  ELECTED -- 9th count
+Rojas Villarreal, Jose.           +620           2688  ELECTED -- 10th count
+Dawson, Bernette J.              -1686              0  DEFEATED -- 9th count
+Weinstein, David J.                  0              0  DEFEATED -- 8th count
+Lim, Christopher                     0              0  DEFEATED -- 7th count
+Allen, Ruth Ryan                     0              0  DEFEATED -- 6th count
+Kadete, Elechi M.                    0              0  DEFEATED -- 5th count
+Write-In 01                          0              0  DEFEATED -- 4th count
+Write-In 02                          0              0  DEFEATED -- 3rd count
+Write-In 03                          0              0  DEFEATED -- 3rd count
+Write-In 04                          0              0  DEFEATED -- 3rd count
+Write-In 05                          0              0  DEFEATED -- 3rd count
+Write-In 06                          0              0  DEFEATED -- 3rd count
+
+EXHAUSTED PILE:                  +1066           2857  
+TOTALS:                              0          19425  
+
+
+
+-- Rojas Villarreal, Jose Luis has been ELECTED, by the process of elimination.
+
+
+********************************************************************************
+
+
+ELECTION COUNT SUCCESSFULLY COMPLETED
+
+
+
+
+
+Friday, November 15, 2019 6:09 PM
+ChoicePlus Pro -- Version 2.3.4
+(c) 1993-2009 Voting Solutions -- All Rights Reserved

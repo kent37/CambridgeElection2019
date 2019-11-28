@@ -1,0 +1,238 @@
+C:\Cambridge\Election2019\School\3 Final\School Detail Report (Delimited)
+10|November 15, 2019 -- Cambridge, MA
+10|School Committee Election
+10|Cambridge, Massachusetts
+10|Final Election Results
+20|C01|"Allen, Ruth Ryan"
+20|C02|"Bowman, Manikka L."
+20|C03|"Dawson, Bernette J."
+20|C04|"Dexter, Emily"
+20|C05|"Fantini, Alfred B."
+20|C06|"Kadete, Elechi M."
+20|C07|"Lim, Christopher"
+20|C08|"Rojas Villarreal, Jose Luis"
+20|C09|"Weinstein, David J."
+20|C10|"Weinstein, Rachel B."
+20|C11|"Wilson, Ayesha"
+20|WI01|"Write-In 01"
+20|WI02|"Write-In 02"
+20|WI03|"Write-In 03"
+20|WI04|"Write-In 04"
+20|WI05|"Write-In 05"
+20|WI06|"Write-In 06"
+30|system|Proportional Representation
+30|threshold|Droop
+30|surplusTransfers|Random, every nth ballot (Cambridge style)|Avoid exhausted ballots if possible|Elected immediately (after the 1st count)
+30|ties|1) Previous Count method|2) By election official|3) Random (by computer)
+40|19425|19425|6|2776|1712
+50|1|Tally of 1st place votes.
+60|C02|+3109|3109|ELECTED -- 1st count
+60|C04|+3003|3003|ELECTED -- 1st count
+60|C11|+2692|2692|CONTINUING
+60|C05|+2662|2662|CONTINUING
+60|C10|+2178|2178|CONTINUING
+60|C08|+1134|1134|CONTINUING
+60|C03|+977|977|CONTINUING
+60|C09|+975|975|CONTINUING
+60|C07|+934|934|CONTINUING
+60|C01|+893|893|CONTINUING
+60|C06|+815|815|CONTINUING
+60|WI01|+50|50|CONTINUING
+60|WI02|+2|2|CONTINUING
+60|WI03|+1|1|CONTINUING
+60|WI04|0|0|CONTINUING
+60|WI05|0|0|CONTINUING
+60|WI06|0|0|CONTINUING
+60|CAND_EXHAUSTED|0|0|
+70|Bowman, Manikka L. has been ELECTED because s/he has met the quota.
+70|Dexter, Emily has been ELECTED because s/he has met the quota.
+50|2|Bowman, Manikka L. has been ELECTED -- transferring surplus votes.
+60|C02|-333|2776|ELECTED -- 1st count
+60|C04|0|3003|ELECTED -- 1st count
+60|C05|+114|2776|ELECTED -- 2nd count
+60|C11|+64|2756|CONTINUING
+60|C10|+32|2210|CONTINUING
+60|C08|+26|1160|CONTINUING
+60|C03|+34|1011|CONTINUING
+60|C09|+19|994|CONTINUING
+60|C07|+16|950|CONTINUING
+60|C01|+8|901|CONTINUING
+60|C06|+20|835|CONTINUING
+60|WI01|0|50|CONTINUING
+60|WI02|0|2|CONTINUING
+60|WI03|0|1|CONTINUING
+60|WI04|0|0|CONTINUING
+60|WI05|0|0|CONTINUING
+60|WI06|0|0|CONTINUING
+60|CAND_EXHAUSTED|0|0|
+70|Fantini, Alfred B. has been ELECTED because s/he has met the quota.
+50|3|Dexter, Emily has been ELECTED -- transferring surplus votes.
+60|C02|0|2776|ELECTED -- 1st count
+60|C04|-227|2776|ELECTED -- 1st count
+60|C05|0|2776|ELECTED -- 2nd count
+60|C11|+20|2776|ELECTED -- 3rd count
+60|C10|+48|2258|CONTINUING
+60|C08|+40|1200|CONTINUING
+60|C03|+21|1032|CONTINUING
+60|C09|+23|1017|CONTINUING
+60|C07|+29|979|CONTINUING
+60|C01|+14|915|CONTINUING
+60|C06|+32|867|CONTINUING
+60|WI01|0|50|CONTINUING
+60|WI02|0|2|DEFEATED -- 3rd count
+60|WI03|0|1|DEFEATED -- 3rd count
+60|WI04|0|0|DEFEATED -- 3rd count
+60|WI05|0|0|DEFEATED -- 3rd count
+60|WI06|0|0|DEFEATED -- 3rd count
+60|CAND_EXHAUSTED|0|0|
+70|Wilson, Ayesha has been ELECTED because s/he has met the quota.
+70|Write-In 06 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 05 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 04 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 03 is declared DEFEATED, as s/he has less than 50 votes.
+70|Write-In 02 is declared DEFEATED, as s/he has less than 50 votes.
+50|4|Transferring all votes simultaneously from all defeated candidates.
+60|C02|0|2776|ELECTED -- 1st count
+60|C04|0|2776|ELECTED -- 1st count
+60|C05|0|2776|ELECTED -- 2nd count
+60|C11|0|2776|ELECTED -- 3rd count
+60|C10|0|2258|CONTINUING
+60|C08|0|1200|CONTINUING
+60|C03|+1|1033|CONTINUING
+60|C09|0|1017|CONTINUING
+60|C07|0|979|CONTINUING
+60|C01|+1|916|CONTINUING
+60|C06|0|867|CONTINUING
+60|WI01|0|50|DEFEATED -- 4th count
+60|WI02|-2|0|DEFEATED -- 3rd count
+60|WI03|-1|0|DEFEATED -- 3rd count
+60|WI04|0|0|DEFEATED -- 3rd count
+60|WI05|0|0|DEFEATED -- 3rd count
+60|WI06|0|0|DEFEATED -- 3rd count
+60|CAND_EXHAUSTED|+1|1|
+70|Write-In 01 is declared DEFEATED because s/he has the lowest number of votes.
+50|5|Write-In 01 has been DEFEATED -- transferring all votes.
+60|C02|0|2776|ELECTED -- 1st count
+60|C04|0|2776|ELECTED -- 1st count
+60|C05|0|2776|ELECTED -- 2nd count
+60|C11|0|2776|ELECTED -- 3rd count
+60|C10|+3|2261|CONTINUING
+60|C08|+2|1202|CONTINUING
+60|C03|0|1033|CONTINUING
+60|C09|+1|1018|CONTINUING
+60|C07|+2|981|CONTINUING
+60|C01|+2|918|CONTINUING
+60|C06|+2|869|DEFEATED -- 5th count
+60|WI01|-50|0|DEFEATED -- 4th count
+60|WI02|0|0|DEFEATED -- 3rd count
+60|WI03|0|0|DEFEATED -- 3rd count
+60|WI04|0|0|DEFEATED -- 3rd count
+60|WI05|0|0|DEFEATED -- 3rd count
+60|WI06|0|0|DEFEATED -- 3rd count
+60|CAND_EXHAUSTED|+38|39|
+70|Kadete, Elechi M. is declared DEFEATED because s/he has the lowest number of votes.
+50|6|Kadete, Elechi M. has been DEFEATED -- transferring all votes.
+60|C02|0|2776|ELECTED -- 1st count
+60|C04|0|2776|ELECTED -- 1st count
+60|C05|0|2776|ELECTED -- 2nd count
+60|C11|0|2776|ELECTED -- 3rd count
+60|C10|+101|2362|CONTINUING
+60|C08|+203|1405|CONTINUING
+60|C09|+112|1130|CONTINUING
+60|C03|+57|1090|CONTINUING
+60|C07|+95|1076|CONTINUING
+60|C01|+38|956|DEFEATED -- 6th count
+60|C06|-869|0|DEFEATED -- 5th count
+60|WI01|0|0|DEFEATED -- 4th count
+60|WI02|0|0|DEFEATED -- 3rd count
+60|WI03|0|0|DEFEATED -- 3rd count
+60|WI04|0|0|DEFEATED -- 3rd count
+60|WI05|0|0|DEFEATED -- 3rd count
+60|WI06|0|0|DEFEATED -- 3rd count
+60|CAND_EXHAUSTED|+263|302|
+70|Allen, Ruth Ryan is declared DEFEATED because s/he has the lowest number of votes.
+50|7|Allen, Ruth Ryan has been DEFEATED -- transferring all votes.
+60|C02|0|2776|ELECTED -- 1st count
+60|C04|0|2776|ELECTED -- 1st count
+60|C05|0|2776|ELECTED -- 2nd count
+60|C11|0|2776|ELECTED -- 3rd count
+60|C10|+174|2536|CONTINUING
+60|C08|+61|1466|CONTINUING
+60|C03|+133|1223|CONTINUING
+60|C09|+84|1214|CONTINUING
+60|C07|+101|1177|DEFEATED -- 7th count
+60|C01|-956|0|DEFEATED -- 6th count
+60|C06|0|0|DEFEATED -- 5th count
+60|WI01|0|0|DEFEATED -- 4th count
+60|WI02|0|0|DEFEATED -- 3rd count
+60|WI03|0|0|DEFEATED -- 3rd count
+60|WI04|0|0|DEFEATED -- 3rd count
+60|WI05|0|0|DEFEATED -- 3rd count
+60|WI06|0|0|DEFEATED -- 3rd count
+60|CAND_EXHAUSTED|+403|705|
+70|Lim, Christopher is declared DEFEATED because s/he has the lowest number of votes.
+50|8|Lim, Christopher has been DEFEATED -- transferring all votes.
+60|C02|0|2776|ELECTED -- 1st count
+60|C04|0|2776|ELECTED -- 1st count
+60|C05|0|2776|ELECTED -- 2nd count
+60|C11|0|2776|ELECTED -- 3rd count
+60|C10|+212|2748|CONTINUING
+60|C08|+262|1728|CONTINUING
+60|C03|+163|1386|CONTINUING
+60|C09|+155|1369|DEFEATED -- 8th count
+60|C07|-1177|0|DEFEATED -- 7th count
+60|C01|0|0|DEFEATED -- 6th count
+60|C06|0|0|DEFEATED -- 5th count
+60|WI01|0|0|DEFEATED -- 4th count
+60|WI02|0|0|DEFEATED -- 3rd count
+60|WI03|0|0|DEFEATED -- 3rd count
+60|WI04|0|0|DEFEATED -- 3rd count
+60|WI05|0|0|DEFEATED -- 3rd count
+60|WI06|0|0|DEFEATED -- 3rd count
+60|CAND_EXHAUSTED|+385|1090|
+70|Weinstein, David J. is declared DEFEATED because s/he has the lowest number of votes.
+50|9|Weinstein, David J. has been DEFEATED -- transferring all votes.
+60|C02|0|2776|ELECTED -- 1st count
+60|C04|0|2776|ELECTED -- 1st count
+60|C05|0|2776|ELECTED -- 2nd count
+60|C11|0|2776|ELECTED -- 3rd count
+60|C10|+28|2776|ELECTED -- 9th count
+60|C08|+340|2068|CONTINUING
+60|C03|+300|1686|DEFEATED -- 9th count
+60|C09|-1369|0|DEFEATED -- 8th count
+60|C07|0|0|DEFEATED -- 7th count
+60|C01|0|0|DEFEATED -- 6th count
+60|C06|0|0|DEFEATED -- 5th count
+60|WI01|0|0|DEFEATED -- 4th count
+60|WI02|0|0|DEFEATED -- 3rd count
+60|WI03|0|0|DEFEATED -- 3rd count
+60|WI04|0|0|DEFEATED -- 3rd count
+60|WI05|0|0|DEFEATED -- 3rd count
+60|WI06|0|0|DEFEATED -- 3rd count
+60|CAND_EXHAUSTED|+701|1791|
+70|Weinstein, Rachel B. has been ELECTED because s/he has met the quota.
+70|Dawson, Bernette J. is declared DEFEATED because s/he has the lowest number of votes.
+50|10|Dawson, Bernette J. has been DEFEATED -- transferring all votes.
+60|C02|0|2776|ELECTED -- 1st count
+60|C04|0|2776|ELECTED -- 1st count
+60|C05|0|2776|ELECTED -- 2nd count
+60|C11|0|2776|ELECTED -- 3rd count
+60|C10|0|2776|ELECTED -- 9th count
+60|C08|+620|2688|ELECTED -- 10th count
+60|C03|-1686|0|DEFEATED -- 9th count
+60|C09|0|0|DEFEATED -- 8th count
+60|C07|0|0|DEFEATED -- 7th count
+60|C01|0|0|DEFEATED -- 6th count
+60|C06|0|0|DEFEATED -- 5th count
+60|WI01|0|0|DEFEATED -- 4th count
+60|WI02|0|0|DEFEATED -- 3rd count
+60|WI03|0|0|DEFEATED -- 3rd count
+60|WI04|0|0|DEFEATED -- 3rd count
+60|WI05|0|0|DEFEATED -- 3rd count
+60|WI06|0|0|DEFEATED -- 3rd count
+60|CAND_EXHAUSTED|+1066|2857|
+70|Rojas Villarreal, Jose Luis has been ELECTED, by the process of elimination.
+80|ELECTION COUNT SUCCESSFULLY COMPLETED
+80|Friday, November 15, 2019 6:09 PM
+80|ChoicePlus Pro -- Version 2.3.4
+80|(c) 1993-2009 Voting Solutions -- All Rights Reserved
