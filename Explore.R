@@ -2,6 +2,7 @@
 library(gt)
 library(leaflet)
 library(mapview)
+library(osmdata)
 library(sf)
 library(tmap)
 source('DataSources.R')
@@ -48,12 +49,24 @@ to_map = wp_ones_wide %>%
   left_join(wards) %>% 
   st_as_sf()
 
+roads <- opq(bbox = 'Cambridge, Massachusetts') %>%
+  add_osm_feature(key = 'highway', 
+                value = c('trunk', 'primary', 
+                          'secondary', 'tertiary')) %>%
+  osmdata_sf %>% 
+  unique_osmdata
+
+qtm(roads$osm_lines)
+
 names = unique(wp_ones$first)
-base_map = osmdata::
+
 tm_shape(to_map) +
   tm_polygons(names, style='fixed', breaks=seq(0, 300, 25),
+              border.col='steelblue',
               title='Number of #1 votes') +
   tm_facets(ncol=4, free.scales=FALSE) +
+  # tm_shape(roads$osm_lines) +
+  # tm_lines(col='black', alpha=0.4) + 
   tm_layout(
     main.title='#1 votes in Cambridge City election, Nov 2019',
     main.title.size=1,
