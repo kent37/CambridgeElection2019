@@ -24,10 +24,14 @@ read_prm = function(path) {
 #' Parse ward and precinct values
 #' @return A vector with ward and precinct numbers
 parse_ward = function(wp) {
+  # Special case for 3-2A
+  if (wp=='3021') return(c(ward='3', precinct='2A'))
+  
   vals = str_match(wp, '^(\\d?\\d)(\\d\\d)$')
-  vals[, 2:3, drop=TRUE] %>% 
-    as.integer() %>% 
+  vals = vals[, 2:3, drop=TRUE] %>% 
     set_names(c('ward', 'precinct'))
+  vals['precinct'] = str_remove(vals['precinct'], '^0')
+  vals
 }
 
 #' Parse a list of ballot strings
@@ -35,7 +39,7 @@ parse_ward = function(wp) {
 parse_ballots = function(raw) {
   cooked = str_split_fixed(raw, '[,)]', 5) %>% # Split fields
     `[`(,c(1, 5)) %>% # Toss extra
-    as_tibble() %>% 
+    as_tibble(.name_repair='minimal') %>% 
     set_names(c('ballot_id', 'choices')) %>% 
     mutate(choices=choices %>% # Clean up the choices field
              str_trim() %>% 
