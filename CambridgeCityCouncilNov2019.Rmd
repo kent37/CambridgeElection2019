@@ -1,0 +1,126 @@
+---
+title: "Cambridge City Council #1 Votes Nov 2019"
+author: ""
+date: '`r Sys.Date()`'
+output: kjutil::small_format
+---
+
+```{r parameters, echo=FALSE,include=FALSE,message=FALSE}
+knitr::opts_chunk$set(echo=FALSE,fig.width=8, fig.height=12, comment=NA, warning=FALSE, message=FALSE)
+knitr::opts_chunk$set(dev = 'svg')
+```
+
+```{r packages}
+library(tidyverse)
+library(leaflet)
+library(sf)
+library(tmap)
+source('DataSources.R')
+```
+
+This report examines the #1 votes for candidates in the 
+November 2019 Cambridge City Council election.
+
+```{r data}
+ballots = all_ballots()
+candidates = candidates()
+
+lookup = deframe(candidates[, c(1, 3)])
+
+# Number one votes by ward and precinct
+wp_ones = ballots %>% 
+  select(-choices) %>% 
+  filter(!is.na(first), first %in% candidates$code) %>% 
+  group_by(ward, precinct) %>% 
+  count(first) %>% 
+  ungroup() %>% 
+  mutate(first=lookup[first])
+
+# Who got the most #1 votes in each precinct?
+wp_most_ones = wp_ones %>% 
+  group_by(ward, precinct) %>% 
+  top_n(1, n) %>% 
+  ungroup()
+
+wp_ones_wide = wp_ones %>% 
+  pivot_wider(names_from=first, values_from=n,
+              values_fill=list(n=0)) 
+
+wards = st_read('ELECTIONS_WardsPrecincts.shp/ELECTIONS_WardsPrecincts.shp', quiet=TRUE)
+```
+
+### Most #1 votes by ward and precinct
+
+The first map shows the candidates who received the most #1 votes
+in each ward and precinct. Click on any precinct for details
+of #1 votes received for each candidate.  
+
+```{r map1}
+to_map = wp_most_ones %>% 
+  mutate(WardPrecin=paste(ward, precinct, sep='-')) %>% 
+  left_join(wards) %>% 
+  st_as_sf()
+
+firsts_names = unique(to_map$first) %>% sort()
+colors = Polychrome::kelly.colors(length(firsts_names)+1)[-1] %>% 
+  set_names(firsts_names)
+
+popups = leafpop::popupTable(wp_ones_wide, 3:24, 
+                             row.numbers=FALSE, feature.id=FALSE)
+leaflet(width='98%', height=600) %>% 
+  addProviderTiles('CartoDB.Positron') %>% 
+  setView(-71.128184, 42.3769824, zoom = 13) %>% 
+  addPolygons(data=to_map %>% st_transform(4326),
+              weight=1, fillOpacity=0.7, group='Data',
+              fillColor=~unname(colors[first]),
+              label=~paste(first, n),
+              popup=popups) %>% 
+  addLegend(labels=firsts_names, colors=colors, opacity=0.7) %>% 
+  addLayersControl(overlayGroups='Data',
+                   options=layersControlOptions(collapsed=FALSE))
+```
+
+### #1 votes per candidate
+
+These maps show number of #1 votes for each candidate 
+across all precincts.
+
+```{r map2}
+names = unique(wp_ones$first)
+to_map2 = wp_ones_wide %>% 
+  mutate(WardPrecin=paste(ward, precinct, sep='-')) %>% 
+  left_join(wards %>% 
+              mutate(WardPrecin=as.character(WardPrecin))) %>% 
+  st_as_sf()
+
+tm_shape(to_map2) +
+  tm_polygons(names, style='fixed', breaks=seq(0, 300, 25),
+              border.col='steelblue',
+              legend.is.portrait=FALSE,
+              title='Number of #1 votes') +
+  tm_facets(ncol=4, free.scales=FALSE) +
+  # tm_shape(roads$osm_lines) +
+  # tm_lines(col='black', alpha=0.4) + 
+  tm_layout(
+    main.title='#1 votes in Cambridge City election, Nov 2019',
+    main.title.size=1,
+    panel.show=TRUE, 
+    panel.label.bg.color='white',
+    panel.labels=names,
+    legend.width=200,
+    legend.outside=TRUE,
+    legend.outside.position='bottom',
+    outer.margins=c(0, 0, 0, 0))
+
+```
+
+Sources:
+
+- Ballot data from Cambridge Election Commission
+- Precinct outlines from Cambridge GIS
+
+<small>Copyright `r format(Sys.Date(), '%Y')` Kent S Johnson
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+  <img alt="Creative Commons License" style="border-width:0;vertical-align:middle;display:inline" 
+  src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" target="_blank"/></a>
+  <span style='float:right;font-style: italic;'>`r Sys.Date()`</span></small>
