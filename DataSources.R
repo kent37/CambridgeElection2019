@@ -75,7 +75,7 @@ cooked = '.CANDIDATE C01, "Akiba, Sukia"
     `[[`(1) %>% 
     str_remove_all('.CANDIDATE |"') %>% 
     str_split_fixed(', ', 2) %>% 
-    as_tibble() %>% 
+    as_tibble(.name_repair='minimal') %>% 
     set_names('code', 'full_name') %>% 
     mutate(last_name=str_split(full_name, ', ') %>% 
              map_chr(1))
